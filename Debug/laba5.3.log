@@ -1,0 +1,10 @@
+﻿  Source.c
+D:\VS repositories\laba5.3\laba5.3\Source.c(51,16): warning C4013: isSubstr: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VS repositories\laba5.3\laba5.3\Source.c(55,15): warning C4013: in_word: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VS repositories\laba5.3\laba5.3\Source.c(77,13): warning C4013: Amount_abbr: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VS repositories\laba5.3\laba5.3\Source.c(79,13): warning C4013: count_print: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VS repositories\laba5.3\laba5.3\Source.c(122,16): warning C4013: len: нет определения; предполагается "extern" с возвратом типа "int"
+D:\VS repositories\laba5.3\laba5.3\Source.c(119): warning C4716: Amount_abbr: должна возвращать значение
+D:\VS repositories\laba5.3\laba5.3\Source.c(127): warning C4715: in_word: значение возвращается не при всех путях выполнения
+D:\VS repositories\laba5.3\laba5.3\Source.c(100): warning C4716: count_print: должна возвращать значение
+  laba5.3.vcxproj -> D:\VS repositories\laba5.3\Debug\laba5.3.exe
